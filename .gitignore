@@ -17,3 +17,4 @@ settings.xml
 .gradle
 log/*
 .DS_Store
+~*
