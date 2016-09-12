@@ -18,3 +18,5 @@ settings.xml
 log/*
 .DS_Store
 ~*
+.data.json.swp
+data.json
